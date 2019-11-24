@@ -1,4 +1,4 @@
-# testing
+# Flip Mini Project
 
 Project ini dapat dijalankan dengan menggunakan XAMPP
 1. Download project ini, lalu extract dan ubah nama folder yang berisi file dari project ini menjadi 'flip'. 
