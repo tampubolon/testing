@@ -40,41 +40,6 @@
 		echo $id;
 		echo"<br>";
 	
-		
-		
-		
-		
-		
-		
-
-	/*  -------UPDATE DATA 	status,receipt,time_served 	KE DB-----------
-	//DB 
-	$servername = "localhost";
-	$username= "root";
-	$password="";
-	$dbname="flip";
-
-	//create connection to DB
-	$conn = new mysqli($servername, $username, $password, $dbname);
-
-	//check connection
-	if($conn -> connect_error){
-		die("Connection failed:" . $conn ->connect_error);
-	}
-	echo"Connected Successfully<br>";
-	$sql= "INSERT INTO miniproject (status,receipt,time_served,fee) 
-	VALUES('$c''$i', '$j')";
-
-	if($conn -> query($sql) == TRUE) {
-			echo "New Record created succesfully<br/>";
-	}	else {
-			echo"Error:" . $sql . "<br>" . $conn ->error;
-	}
-	echo "<br><br>";
-	*/
-
-
-
 
 	?>
 	</body>
